@@ -1,0 +1,12 @@
+{
+    "name": "leet/exchangeapp",
+    "description": "Exchange App",
+    "type": "project",
+    "license": "non",
+    "require": {
+        "latte/latte": "^2.6",
+        "catfan/medoo": "^1.7",
+        "mashape/unirest-php": "^3.0",
+        "klein/klein": "^2.1"
+    }
+}

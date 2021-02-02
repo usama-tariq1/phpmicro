@@ -1,0 +1,21 @@
+{
+    "short_name": "Php micro",
+    "name": "Php micro",
+    "theme_color": "#000000",
+    "background_color": "#000000",
+    "display": "standalone",
+    "icons": [{
+            "src": "/assets/icons/titlelogo.png",
+            "type": "image/png",
+            "sizes": "48x48"
+        }
+
+    ],
+    "permissions": [
+      "tabs",
+      "bookmarks",
+      "unlimitedStorage",
+      "background"
+    ],
+    "start_url": "/"
+}

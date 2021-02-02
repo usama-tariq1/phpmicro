@@ -1,0 +1,32 @@
+.body, html {
+  margin: 0px;
+  padding: 0px;
+  box-sizing: border-box;
+  width: 100%;
+  background-color: black;
+}
+
+.welcome {
+  border: 1px solid #009914;
+  border-radius: 10px;
+  padding: 60px 30px;
+  width: 50%;
+  position: absolute;
+  left: 50%;
+  top: 50%;
+  transform: translate(-50%, -50%);
+}
+
+.welcome .title {
+  text-align: center;
+  color: #009914;
+  font-size: 55px;
+}
+
+.welcome .subtitle {
+  text-align: center;
+  color: white;
+  font-size: 20px;
+  margin-top: 20px;
+}
+/*# sourceMappingURL=style.css.map */
