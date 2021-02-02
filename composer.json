@@ -1,6 +1,6 @@
 {
-    "name": "leet/exchangeapp",
-    "description": "Exchange App",
+    "name": "leet/phpmicro",
+    "description": "Small PHP Micro Framework",
     "type": "project",
     "license": "non",
     "require": {
