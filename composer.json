@@ -2,7 +2,7 @@
     "name": "leet/phpmicro",
     "description": "Small PHP Micro Framework",
     "type": "project",
-    "license": "non",
+    "license": "MIT",
     "require": {
         "latte/latte": "^2.6",
         "catfan/medoo": "^1.7",
